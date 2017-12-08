@@ -1,0 +1,10 @@
+Metodologia Iterativa Incremental
+
+	Esta metodologia de desarrollo consiste en utilizar la metodologia en cascada, 
+cambiando el punto 3 (Desarrollo) para abarcar menos modulos del software en si. 
+
+	Es decir que se aplica el modelo de cascada para cada uno de los modulos del 
+software a crear, aplicandolos a cada uno de estos para al finalizar unirlos como un todo.
+
+	Para mas información del modelo en cascada ver "cascada.txt" ubicado en la misma 
+ubicacion que este documento.

@@ -1,0 +1,23 @@
+1. Analisis de Requerimientos
+	
+	En esta etapa se contacta con el cliente para determinar los detalles del software
+planeado, sus alcances, atributos, funciones y publico objetivo.
+
+2. Diseño
+
+	Consiste en planificar como se realizará el software en si usando los parametros
+creados en la etapa anterior.
+
+3. Desarrollo
+
+	Desarrollo del software en cuestion bajo los parametros determinados.
+
+4. Pruebas
+
+	Prueba del(los) modulos creados hasta el momento en la fase anterior. Regularmente
+del software entero si no es iterativo.
+
+5. Mantenimiento
+
+	Comprende tanto mantenimiento (correccion de bugs y agrego de modulos faltantes)
+como capacitacion para el uso adecuado del software.
