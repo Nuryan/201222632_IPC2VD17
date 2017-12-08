@@ -1,0 +1,16 @@
+1.
+
+	Guardar cambios del proyecto en el equipo, no en los datos almacenados en la pagina.
+
+
+2.
+
+	Union de los datos contenidos en varias ramas, convirtiendo a estas en una sola.
+
+3.
+	Push: Guarda los commits efectuados por el usuario.
+
+	Pull: Usa los cambios guardados en git, sobreescribe los de la computadora del
+		usuario que solicita el pull.
+
+
